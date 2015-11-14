@@ -1,4 +1,4 @@
-#Prototype android client to control the Robot
+# Prototype android client to control the Robot
 
 Android application generated using Cordova.
 
@@ -7,6 +7,6 @@ Android application generated using Cordova.
 - Run the command: $cordova run android
 
 
-##Initial credentials:
+## Initial credentials:
 - User: Probationerd
 - Password: hack2015
